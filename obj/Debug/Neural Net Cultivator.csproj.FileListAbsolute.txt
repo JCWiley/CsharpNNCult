@@ -1,0 +1,7 @@
+C:\Users\John\Documents\Visual Studio 2015\Projects\AI\OIT-ML-2014-NNC\Neural Net Cultivator\bin\Debug\Neural Net Cultivator.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\AI\OIT-ML-2014-NNC\Neural Net Cultivator\bin\Debug\Neural Net Cultivator.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\AI\OIT-ML-2014-NNC\Neural Net Cultivator\obj\Debug\Neural Net Cultivator.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\AI\OIT-ML-2014-NNC\Neural Net Cultivator\obj\Debug\Neural Net Cultivator.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\AI\OIT-ML-2014-NNC\Neural Net Cultivator\obj\Debug\Neural Net Cultivator.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\AI\OIT-ML-2014-NNC-Backup-3-15-17\Neural Net Cultivator\obj\Debug\Neural Net Cultivator.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\AI\OIT-ML-2014-NNC-Backup-3-15-17\Neural Net Cultivator\obj\Debug\Neural Net Cultivator.pdb

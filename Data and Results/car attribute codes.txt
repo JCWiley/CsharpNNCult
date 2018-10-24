@@ -1,0 +1,32 @@
+column 1: buying price
+	vhigh		1 0 0 0
+	high		0 1 0 0
+	med		0 0 1 0
+	low		0 0 0 1
+column 2: maintnence price
+	vhigh		1 0 0 0
+	high		0 1 0 0
+	med		0 0 1 0
+	low		0 0 0 1
+column 3: num_doors
+	2		1 0 0 0
+	3		0 1 0 0
+	4		0 0 1 0
+	5more		0 0 0 1
+column 4: num_persons
+	2		1 0 0
+	4		0 1 0
+	more		0 0 1
+column 5: size_boot
+	small		1 0 0
+	med		0 1 0
+	big		0 0 1
+column 6: safety
+	low		1 0 0
+	med		0 1 0
+	high		0 0 1
+column 7: acceptability (output)
+	Unacc		1 0 0 0
+	acc		0 1 0 0
+	good		0 0 1 0
+	vgood		0 0 0 1
